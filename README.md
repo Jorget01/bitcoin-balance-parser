@@ -2,8 +2,6 @@
 
 A Tkinter (Python) GUI app that generates random `bitcoinco.org` IDs (30 chars), derives the corresponding BTC address, and checks balance / transaction presence via Esplora-compatible APIs (e.g. Blockstream, mempool.space).
 
-Russian version: `README.ru.md`.
-
 ## Features
 
 - Multi-threaded checking of random IDs (configurable count and thread number).
